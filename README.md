@@ -1,5 +1,5 @@
 # Blockchain-Guide
-All resources related to blockchain, ehter, crypto, defi, web3 etc...
+All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
 
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
