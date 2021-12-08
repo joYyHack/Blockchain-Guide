@@ -3,6 +3,10 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
 
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
+## Coins
+  >[CoinMarketCup](https://coinmarketcap.com/)
+
+  >[CoinGeko](https://www.coingecko.com/en)
 ## Polkadot
   >[**What is Polkadot**](https://www.youtube.com/watch?v=YlAdEQp6ekM)
   
