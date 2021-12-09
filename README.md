@@ -1,6 +1,11 @@
 # Blockchain-Guide
 All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
 
+## Youtube Channels
+  >[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+  
+  >[Whiteboard Crypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
+
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
 ## Coins
