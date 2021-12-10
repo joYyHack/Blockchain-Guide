@@ -18,6 +18,10 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
     >[CoinMarketCup(Methodologies)](https://support.coinmarketcap.com/hc/en-us/categories/360003242592-Listings-and-Methodologies)
   
     >[CoinGecko(Methodologies)](https://www.coingecko.com/en/methodology)
+   
+    >[What is market cup?](https://www.investopedia.com/terms/m/marketcapitalization.asp)
+    
+    >[Traiding pairs](https://cryptocurrencyfacts.com/what-are-trading-pairs-in-cryptocurrency/)
     
   - ### Upcoming Events
     >[CoinMarketCal](https://coinmarketcal.com/)
