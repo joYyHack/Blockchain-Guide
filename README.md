@@ -6,6 +6,9 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
   
   >[Whiteboard Crypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
   
+## Blockchain learn
+  >[Crypto Zombies](https://cryptozombies.io/)
+
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
   
