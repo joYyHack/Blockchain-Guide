@@ -9,6 +9,9 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
   
+  - ### Nethereum
+    >[.NET Library for Ethereum](https://docs.nethereum.com/en/latest/)
+  
 ## Coins
   >[CoinMarketCup](https://coinmarketcap.com/)
   
