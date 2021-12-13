@@ -11,6 +11,13 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
   
   - ### Nethereum
     >[.NET Library for Ethereum](https://docs.nethereum.com/en/latest/)
+
+  - ### Infura
+    >[Infura](https://medium.com/what-is-infura/what-is-infura-59dbdd778455)
+    
+    >[Infura Docs](https://infura.io/docs)
+    
+    >[Infura FAQ](https://infura.io/docs)
   
 ## Coins
   >[CoinMarketCup](https://coinmarketcap.com/)
