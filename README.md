@@ -12,9 +12,16 @@ All resources related to blockchain, ethereum, crypto, defi, dapps, web3 etc...
 ## Ethereum
   >[Ethereum Docs](https://ethereum.org/)
   
-  - ### Nethereum
+  - ### Programming
+    >[Solidity](https://docs.soliditylang.org/en/v0.8.10/)
+    
+    >[we3.js](https://web3js.readthedocs.io/en/v1.5.2/)
+    
     >[.NET Library for Ethereum](https://docs.nethereum.com/en/latest/)
-
+    
+  - ### IPFS
+    >[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/#decentralization)
+   
   - ### Infura
     >[Infura](https://medium.com/what-is-infura/what-is-infura-59dbdd778455)
     
