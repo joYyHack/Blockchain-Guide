@@ -15,6 +15,7 @@
   
   >[Whiteboard Crypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
   
+  >[EthBuild](https://www.youtube.com/watch?v=30pa790tIIA&list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 </details>
 
 <details><summary>Blockchain learn</summary>
@@ -35,7 +36,7 @@
     >[we3.js](https://web3js.readthedocs.io/en/v1.5.2/)
     
     >[.NET Library for Ethereum](https://docs.nethereum.com/en/latest/)
-    
+  
   - ### IPFS
     >[IPFS](https://docs.ipfs.io/concepts/what-is-ipfs/#decentralization)
    
