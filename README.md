@@ -1,11 +1,11 @@
 # Blockchain-Guide
 - # All resources related to 
-  - ## blockchain
-  - ## ethereum
-  - ## crypto
-  - ## defi
-  - ## dapps
-  - ## web3
+  - ## Blockchain
+  - ## Ethereum
+  - ## Crypto
+  - ## Defi
+  - ## Dapps
+  - ## Web3
 
 <br/>
 <details><summary>Youtube chanels</summary>
