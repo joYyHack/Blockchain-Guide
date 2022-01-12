@@ -3,9 +3,18 @@
  **Blockchain**, **Ethereum**, **Crypto**, **Defi**, **Dapps**, **Web3** **etc...**
 
 <br/>
+
+<details><summary>2022</summary>
+  
+## 2022
+  >[How To Become a Highly Paid Blockchain Developer in 2022](https://www.youtube.com/watch?v=uGPC9wNTBbw)  
+  
+</details>
+
 <details><summary>Youtube chanels</summary>
   
 ## Youtube Channels
+  
   >[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
   
   >[Whiteboard Crypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
@@ -15,9 +24,8 @@
 
 <details><summary>Blockchain learn</summary>
   
-## Blockchain learn
+## Blockchain learn  
   >[Crypto Zombies](https://cryptozombies.io/)
-  
 </details>
 
 <details><summary>Ethereum</summary>
@@ -41,6 +49,14 @@
     >[Infura Docs](https://infura.io/docs)
     
     >[Infura FAQ](https://infura.io/docs)
+  
+</details>
+
+
+<details><summary>NFT</summary>
+  
+## NFT
+  >[NFT Programming](https://moralis.io/nft-programming-for-beginners/)
   
 </details>
 
