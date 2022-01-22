@@ -123,5 +123,12 @@
   
  </details>
  
+ <details><summary>L2 Solutions</summary>
+  
+## L2 Solutions
+  >[L2 Market](https://l2beat.com/)
+  
+ </details>
+ 
  ## Ethereum workflow
 ![Workflow](https://user-images.githubusercontent.com/94608729/147000189-e128922c-5ef5-43f2-953d-be14411bca2c.png)
